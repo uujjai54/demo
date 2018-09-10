@@ -12,3 +12,33 @@
     "name": "typicode"
   }
 }
+"serviceData" : [
+  { 'releaseid': '1',
+    'projectName': 'UBP',
+    'workStream': 'Development',
+    'rcount': '45'
+  },
+  {
+    'releaseid': '2',
+    'projectName': 'UBS',
+    'workStream': 'Testing',
+    'rcount': '110'
+  },
+  {
+    'releaseid': '3',
+    'projectName': 'jaguar',
+    'workStream': 'Support',
+    'rcount': '35'
+  },
+  {
+    'releaseid': '4',
+    'projectName': 'Landrover',
+    'workStream': 'Development',
+    'rcount': '67'
+  }
+],
+"projectdata" :[
+
+  {'project1':'UBP'},{'project1':'Amdocs'},{'project1':'Barclays'},{'project1':'Landrover'},{'project1':'UBS'}
+]
+}
